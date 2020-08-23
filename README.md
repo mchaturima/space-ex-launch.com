@@ -14,4 +14,5 @@ Below are the screenshots of the website developed according to the requirements
 
 #Requirement.No.1: Display all the launches on page load.
 
-<img src="./images/pageLoadLaunch.png" alt="" width="50">
+![pageLoadLaunch](https://user-images.githubusercontent.com/50954235/90982377-720b2c00-e584-11ea-83e6-8b61dc002cb8.png)
+
