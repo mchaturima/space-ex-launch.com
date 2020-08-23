@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd20240b6f76d276f9789d6d2dbe5b2d",
+    "revision": "60ebf6b74a8130c9cea20c22f29b8e3a",
     "url": "/Publicis-Sapient/index.html"
   },
   {
-    "revision": "87d63cd44f12db3e8c7f",
-    "url": "/Publicis-Sapient/static/css/main.a3e44d9e.chunk.css"
+    "revision": "8ced7dd3db8c583464d6",
+    "url": "/Publicis-Sapient/static/css/main.bfd7be4e.chunk.css"
   },
   {
     "revision": "bcf3596d0ea31a0ff64a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Publicis-Sapient/static/js/2.274bcf0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87d63cd44f12db3e8c7f",
-    "url": "/Publicis-Sapient/static/js/main.a0a61322.chunk.js"
+    "revision": "8ced7dd3db8c583464d6",
+    "url": "/Publicis-Sapient/static/js/main.d359850b.chunk.js"
   },
   {
     "revision": "ec1435c255fe97f3485d",
