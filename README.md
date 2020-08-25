@@ -90,6 +90,6 @@ Unit Test Cases:
     Expected Output: If filters are selected, reset filters button should appear.
     Actual Output: If filters are selected, reset filters button are appearing.
 
-8. If user clicks on reset filters button, filters should be cleared and all the launches should appear.
+9. If user clicks on reset filters button, filters should be cleared and all the launches should appear.
     Expected Output: Filters should be cleared and all the launches should appear.
     Actual Output: Filters are cleared and all the launches are appearing.
