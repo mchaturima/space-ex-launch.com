@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Publicis-Sapient/static/css/main.a3397285.chunk.css",
+    "main.css": "/Publicis-Sapient/static/css/main.87e271c3.chunk.css",
     "main.js": "/Publicis-Sapient/static/js/main.65a48aae.chunk.js",
     "main.js.map": "/Publicis-Sapient/static/js/main.65a48aae.chunk.js.map",
     "runtime-main.js": "/Publicis-Sapient/static/js/runtime-main.e67dd7b3.js",
@@ -8,15 +8,15 @@
     "static/js/2.274bcf0e.chunk.js": "/Publicis-Sapient/static/js/2.274bcf0e.chunk.js",
     "static/js/2.274bcf0e.chunk.js.map": "/Publicis-Sapient/static/js/2.274bcf0e.chunk.js.map",
     "index.html": "/Publicis-Sapient/index.html",
-    "precache-manifest.5f245754ddb7d51b17c22045690f2776.js": "/Publicis-Sapient/precache-manifest.5f245754ddb7d51b17c22045690f2776.js",
+    "precache-manifest.5f003d2b582b18ad36373594efcb71eb.js": "/Publicis-Sapient/precache-manifest.5f003d2b582b18ad36373594efcb71eb.js",
     "service-worker.js": "/Publicis-Sapient/service-worker.js",
-    "static/css/main.a3397285.chunk.css.map": "/Publicis-Sapient/static/css/main.a3397285.chunk.css.map",
+    "static/css/main.87e271c3.chunk.css.map": "/Publicis-Sapient/static/css/main.87e271c3.chunk.css.map",
     "static/js/2.274bcf0e.chunk.js.LICENSE.txt": "/Publicis-Sapient/static/js/2.274bcf0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e67dd7b3.js",
     "static/js/2.274bcf0e.chunk.js",
-    "static/css/main.a3397285.chunk.css",
+    "static/css/main.87e271c3.chunk.css",
     "static/js/main.65a48aae.chunk.js"
   ]
 }
