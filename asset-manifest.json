@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/space-ex-launch/static/css/main.aa7a823a.chunk.css",
-    "main.js": "/space-ex-launch/static/js/main.15b14f2f.chunk.js",
-    "main.js.map": "/space-ex-launch/static/js/main.15b14f2f.chunk.js.map",
-    "runtime-main.js": "/space-ex-launch/static/js/runtime-main.6fb7b832.js",
-    "runtime-main.js.map": "/space-ex-launch/static/js/runtime-main.6fb7b832.js.map",
-    "static/js/2.274bcf0e.chunk.js": "/space-ex-launch/static/js/2.274bcf0e.chunk.js",
-    "static/js/2.274bcf0e.chunk.js.map": "/space-ex-launch/static/js/2.274bcf0e.chunk.js.map",
-    "index.html": "/space-ex-launch/index.html",
-    "precache-manifest.6c2e70c22fc66e421305719a5f90a71f.js": "/space-ex-launch/precache-manifest.6c2e70c22fc66e421305719a5f90a71f.js",
-    "service-worker.js": "/space-ex-launch/service-worker.js",
-    "static/css/main.aa7a823a.chunk.css.map": "/space-ex-launch/static/css/main.aa7a823a.chunk.css.map",
-    "static/js/2.274bcf0e.chunk.js.LICENSE.txt": "/space-ex-launch/static/js/2.274bcf0e.chunk.js.LICENSE.txt"
+    "main.css": "/space-ex-launch.com/static/css/main.aa7a823a.chunk.css",
+    "main.js": "/space-ex-launch.com/static/js/main.def32ac4.chunk.js",
+    "main.js.map": "/space-ex-launch.com/static/js/main.def32ac4.chunk.js.map",
+    "runtime-main.js": "/space-ex-launch.com/static/js/runtime-main.a75ec12a.js",
+    "runtime-main.js.map": "/space-ex-launch.com/static/js/runtime-main.a75ec12a.js.map",
+    "static/js/2.274bcf0e.chunk.js": "/space-ex-launch.com/static/js/2.274bcf0e.chunk.js",
+    "static/js/2.274bcf0e.chunk.js.map": "/space-ex-launch.com/static/js/2.274bcf0e.chunk.js.map",
+    "index.html": "/space-ex-launch.com/index.html",
+    "precache-manifest.6c6aa247eb8595c1de0a0c834509025e.js": "/space-ex-launch.com/precache-manifest.6c6aa247eb8595c1de0a0c834509025e.js",
+    "service-worker.js": "/space-ex-launch.com/service-worker.js",
+    "static/css/main.aa7a823a.chunk.css.map": "/space-ex-launch.com/static/css/main.aa7a823a.chunk.css.map",
+    "static/js/2.274bcf0e.chunk.js.LICENSE.txt": "/space-ex-launch.com/static/js/2.274bcf0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fb7b832.js",
+    "static/js/runtime-main.a75ec12a.js",
     "static/js/2.274bcf0e.chunk.js",
     "static/css/main.aa7a823a.chunk.css",
-    "static/js/main.15b14f2f.chunk.js"
+    "static/js/main.def32ac4.chunk.js"
   ]
 }
