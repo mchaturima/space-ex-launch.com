@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Publicis-Sapient/static/css/main.aa7a823a.chunk.css",
-    "main.js": "/Publicis-Sapient/static/js/main.775ee88e.chunk.js",
-    "main.js.map": "/Publicis-Sapient/static/js/main.775ee88e.chunk.js.map",
-    "runtime-main.js": "/Publicis-Sapient/static/js/runtime-main.e67dd7b3.js",
-    "runtime-main.js.map": "/Publicis-Sapient/static/js/runtime-main.e67dd7b3.js.map",
-    "static/js/2.274bcf0e.chunk.js": "/Publicis-Sapient/static/js/2.274bcf0e.chunk.js",
-    "static/js/2.274bcf0e.chunk.js.map": "/Publicis-Sapient/static/js/2.274bcf0e.chunk.js.map",
-    "index.html": "/Publicis-Sapient/index.html",
-    "precache-manifest.a3c96969063cadfdcd3972cd98d915ca.js": "/Publicis-Sapient/precache-manifest.a3c96969063cadfdcd3972cd98d915ca.js",
-    "service-worker.js": "/Publicis-Sapient/service-worker.js",
-    "static/css/main.aa7a823a.chunk.css.map": "/Publicis-Sapient/static/css/main.aa7a823a.chunk.css.map",
-    "static/js/2.274bcf0e.chunk.js.LICENSE.txt": "/Publicis-Sapient/static/js/2.274bcf0e.chunk.js.LICENSE.txt"
+    "main.css": "/space-ex-launch/static/css/main.aa7a823a.chunk.css",
+    "main.js": "/space-ex-launch/static/js/main.15b14f2f.chunk.js",
+    "main.js.map": "/space-ex-launch/static/js/main.15b14f2f.chunk.js.map",
+    "runtime-main.js": "/space-ex-launch/static/js/runtime-main.6fb7b832.js",
+    "runtime-main.js.map": "/space-ex-launch/static/js/runtime-main.6fb7b832.js.map",
+    "static/js/2.274bcf0e.chunk.js": "/space-ex-launch/static/js/2.274bcf0e.chunk.js",
+    "static/js/2.274bcf0e.chunk.js.map": "/space-ex-launch/static/js/2.274bcf0e.chunk.js.map",
+    "index.html": "/space-ex-launch/index.html",
+    "precache-manifest.6c2e70c22fc66e421305719a5f90a71f.js": "/space-ex-launch/precache-manifest.6c2e70c22fc66e421305719a5f90a71f.js",
+    "service-worker.js": "/space-ex-launch/service-worker.js",
+    "static/css/main.aa7a823a.chunk.css.map": "/space-ex-launch/static/css/main.aa7a823a.chunk.css.map",
+    "static/js/2.274bcf0e.chunk.js.LICENSE.txt": "/space-ex-launch/static/js/2.274bcf0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e67dd7b3.js",
+    "static/js/runtime-main.6fb7b832.js",
     "static/js/2.274bcf0e.chunk.js",
     "static/css/main.aa7a823a.chunk.css",
-    "static/js/main.775ee88e.chunk.js"
+    "static/js/main.15b14f2f.chunk.js"
   ]
 }
