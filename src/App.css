@@ -1,67 +1,100 @@
 body{
-  /* padding:5px; */
   margin:0;
   background-color:#f2f2f2;
 }
 
 .container{
-  width:100%;
-  margin:auto;
-  
-}
-.col-one{
-  width:18%;
-  height:100%;
-  padding:3px;
-  background-color: #fff;
-  margin:10px;
-  float:left;
-  text-align: center;
+  padding: 0 0 0 15px;
 }
 
-.col-two{
-  width:80%;
-  height:100%;
-  float: left;
-  text-align: center;
+#spacex .data-container {
+  width: 100%;
   margin: auto;
 }
 
-.image_card {
-  margin: 5px;
-  float: left;
+#spacex .data-container .col-filter{
+  width: 100%;
+}
+
+#spacex .data-container .col-data{
+  width: 100%;
+}
+
+#spacex .data-container .col-filter .filter {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  /* border: 1px solid black; */
   background-color: #fff;
-  height: 540px;
-  width: 300px;
-  padding:2px;
+  padding: 10px;
 }
 
-input[type="checkbox"] {
-  display: none;
+#spacex .data-container .col-data .data{
+  width: 100%;
+  margin: auto;
 }
-input[type="checkbox"] + span {
+
+#spacex .data-container .col-data .data .card {
+  width: 100%;
+}
+
+#spacex .data-container .col-data .data .card .card-details {
+  width: 95%;
+  background-color: #fff;
+  margin: 5px auto;
+  text-align: center;
+  height: 500px !important;
+}
+
+#spacex .float-left {
+  float: left;
+}
+
+.header {
+  width: 100% !important;
   display: inline-block;
-  position: relative;
-  top: -1px;
-  width: 100px;
-  height: 30px;
-  margin: 5px;
-  vertical-align: middle;
-  background-color: #c6e194;
-  border: 1px solid #ccc;
-  cursor: pointer;
-}
-input[type="checkbox"]:checked + span {
-  background: #7dba02 -19px top no-repeat;
 }
 
-input[type="checkbox"] + span {
-  margin-right: 4px;
+#spacex .col-filter .filter .header .col {
+  width: 50% !important;
+  float: left;
+  text-align: left;
+}
+
+#spacex .col-filter .filter .header .col.name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#spacex .col-filter .filter .header .col.name:after {
+  content: "";
+  border-bottom: 3px solid #000000;
+  width: 30px;
+  display: block;
+}
+
+#spacex .col-filter .filter .header .col .reset-btn {
+  height: 30px;
+  background-color: white !important;
+  display: none;
+  cursor: pointer;
+  border:none;
+  outline:none;
+  border-radius:5px;
+  margin:5px 0px;
+  font-size:17px;
+  text-align: right;
+  color: #66a6ff;
+}
+
+#spacex .col-filter .filter .header .col .reset-btn:hover {
+  transform: translateY(-3px);
 }
 
 input[type="radio"] {
   display: none;
 }
+
 input[type="radio"] + span {
   display: inline-block;
   position: relative;
@@ -74,10 +107,162 @@ input[type="radio"] + span {
   border: 1px solid #ccc;
   cursor: pointer;
 }
+
 input[type="radio"]:checked + span {
   background: #7dba02 -19px top no-repeat;
 }
 
 input[type="radio"] + span {
   margin-right: 4px;
+}
+input[type="radio"] + span:hover {
+ transform: translateY(-3px);
+}
+
+/* 
+* Screen widths below 700px (Mobile) 
+*/
+@media (max-width:700px) {
+  #spacex .data-container .col-filter{
+    width: 100% !important;
+  }
+  
+  #spacex .data-container .col-data{
+    width: 100% !important;
+  }
+
+  #spacex .data-container .col-filter .filter{
+    width:350px !important;
+  }
+  
+  #spacex .data-container .col-data .data {
+    width: 60% !important;
+  }
+  
+  #spacex .data-container .col-data .data .card {
+    width: 100% !important;
+  }
+}
+ 
+/* 
+* Screen widths between 701px and 1024px (Tablets...) 
+*/
+@media (min-width: 701px) and (max-width: 1024px) {
+  #spacex .data-container .col-filter{
+    width: 35% !important;
+  }
+  
+  #spacex .data-container .col-data{
+    width: 65% !important;
+  }
+  #spacex .data-container .col-filter .filter{
+    padding:1px;
+    width: 255px;
+  }
+  
+  #spacex .data-container .col-data .data {
+    width: 96% !important;
+  }
+  
+  #spacex .data-container .col-data .data .card {
+    width: 50% !important;
+  }
+}
+
+/* 
+* Screen widths larger than 1024px (Desktops...)
+*/
+@media (min-width: 1025px) {
+  #spacex .data-container .col-filter{
+    width: 30% !important;
+  }
+  
+  #spacex .data-container .col-data{
+    width: 70% !important;
+  }
+
+  
+  
+  #spacex .data-container .col-filter .filter,
+  #spacex .data-container .col-data .data {
+    width: 96% !important;
+  }
+  
+  #spacex .data-container .col-data .data .card {
+    width: 25% !important;
+  }
+}
+/* 
+* Screen widths larger than 1192px (Desktops...)
+*/
+@media (min-width: 1192px) {
+  #spacex .data-container .col-filter{
+    width: 25% !important;
+  }
+  
+  #spacex .data-container .col-data{
+    width: 75% !important;
+  }
+  
+  #spacex .data-container .col-filter .filter,
+  #spacex .data-container .col-data .data {
+    width: 96% !important;
+  }
+  
+  #spacex .data-container .col-data .data .card {
+    width: 25% !important;
+  }
+}
+/* 
+* Screen widths larger than 1425px (Desktops...)
+*/
+
+@media (min-width: 1425px) {
+  #spacex .data-container .col-filter{
+    width: 20% !important;
+  }
+  
+  #spacex .data-container .col-data{
+    width: 80% !important;
+  }
+  
+  #spacex .data-container .col-filter .filter,
+  #spacex .data-container .col-data .data {
+    width: 96% !important;
+  }
+  
+  #spacex .data-container .col-data .data .card {
+    width: 25% !important;
+  }
+}
+/* 
+* Screen widths larger than 1951px (Desktops...)
+*/
+@media (min-width: 1951px) {
+  #spacex .data-container .col-filter{
+    width: 15% !important;
+  }
+  
+  #spacex .data-container .col-data{
+    width: 85% !important;
+  }
+  
+  #spacex .data-container .col-filter .filter,
+  #spacex .data-container .col-data .data {
+    width: 96% !important;
+  }
+  
+  #spacex .data-container .col-data .data .card {
+    width: 20% !important;
+  }
+}
+
+
+.container .dev-details {
+  font-size: 15px;
+  text-align: center;
+  bottom:0;
+}
+.reset-filter-btn{
+  display: none;
 }
